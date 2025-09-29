@@ -3,7 +3,7 @@
 The original hardware design for [Hertz Hunter](https://github.com/odddollar/Hertz-hunter).
 
 <div align="center">
-    <img src="./Example.jpg" alt="Example" />
+    <img src="./Example.jpg" alt="Example" width="40%" />
 </div>
 
 ### Components

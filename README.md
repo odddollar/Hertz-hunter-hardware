@@ -13,7 +13,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Open source**: Yes
 
 <div align="center">
-    <img src="./DIY/Example.jpg" alt="Example" />
+    <img src="./DIY/Example.jpg" alt="Example" width="40%" />
 </div>
 
 
@@ -46,7 +46,7 @@ An example is provided above with the entry for the DIY design.
 - **Price**: 
 
 <div align="center">
-    <img src="./design's folder/Example.jpg" alt="Example" />
+    <img src="./design's folder/Example.jpg" alt="Example" width="40%" />
 </div>
 ```
 
