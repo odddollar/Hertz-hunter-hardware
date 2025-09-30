@@ -30,3 +30,4 @@ These components can be connected together on a bread-board or soldered more per
 <div align="center">
     <img src="./Wiring.png" alt="Wiring" />
 </div>
+
