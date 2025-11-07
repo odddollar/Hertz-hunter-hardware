@@ -16,6 +16,18 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
     <img src="./DIY/Example.jpg" alt="Example" width="40%" />
 </div>
 
+### Design name
+
+[Link](./Compact1.0/)
+
+- **Designer**: Kreviuz
+- **Designer contact**: Discord
+- **Open source**: Yes
+
+<div align="center">
+    <img src="./Compact1.0/images/3dmodel1.png" alt="Example" width="40%" />
+</div>
+
 ## Adding your own design
 
 Adding your own design to this repository is encouraged! **Your design does not have be open source.**
