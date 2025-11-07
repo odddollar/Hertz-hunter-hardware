@@ -16,7 +16,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
     <img src="./DIY/Example.jpg" alt="Example" width="40%" />
 </div>
 
-### Design name
+### Compact PCB v1.0
 
 [Link](./Compact1.0/)
 
