@@ -39,7 +39,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Price**: $50 USD
 
 <div align="center">
-    <img src="./NuclearCounter/Images/Example 1.jpg" alt="Example" width="40%" />
+    <img src="./NuclearCounter/Images/Example.jpg" alt="Example" width="40%" />
 </div>
 
 ## Adding your own design
