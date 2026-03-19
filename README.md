@@ -4,16 +4,16 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 
 ## Designs
 
-### Compact PCB v1.0
+### Compact 1.0
 
-[Link](./Compact1.0/)
+[Link](./Compact%201.0)
 
 - **Designer**: Kreviuz
 - **Designer contact**: Discord
 - **Open source**: Yes
 
 <div align="center">
-    <img src="./Compact1.0/images/3dmodel1.png" alt="Example" width="40%" />
+    <img src="./Compact 1.0/Images/3dmodel1.png" alt="Example" width="40%" />
 </div>
 
 ### DIY
@@ -26,6 +26,20 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 
 <div align="center">
     <img src="./DIY/Example.jpg" alt="Example" width="40%" />
+</div>
+
+### NuclearCounter
+
+[Link](./NuclearCounter)
+
+- **Designer**: NuclearQuads
+- **Designer contact**: [nuclearquads@gmail.com](mailto:nuclearquads@gmail.com)
+- **Open source**: No
+- **Purchase/external link**: [NuclearQuads' NuclearCounter](https://nuclearq.myshopify.com/products/nuclearcounter)
+- **Price**: $50 USD
+
+<div align="center">
+    <img src="./NuclearCounter/Images/Example 1.jpg" alt="Example" width="40%" />
 </div>
 
 ## Adding your own design
@@ -57,7 +71,7 @@ An example is provided above with the entry for the DIY design.
 - **Price**: 
 
 <div align="center">
-    <img src="./design's folder/Example.jpg" alt="Example" width="40%" />
+    <img src="./Design's folder/Example.jpg" alt="Example" width="40%" />
 </div>
 ```
 
