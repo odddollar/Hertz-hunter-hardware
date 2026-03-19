@@ -4,18 +4,6 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 
 ## Designs
 
-### DIY
-
-[Link](./DIY)
-
-- **Designer**: Simon Eason (odddollar)
-- **Designer contact**: Create an issue/pull request in this or Hertz Hunter's [repo](https://github.com/odddollar/Hertz-hunter)
-- **Open source**: Yes
-
-<div align="center">
-    <img src="./DIY/Example.jpg" alt="Example" width="40%" />
-</div>
-
 ### Compact PCB v1.0
 
 [Link](./Compact1.0/)
@@ -26,6 +14,18 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 
 <div align="center">
     <img src="./Compact1.0/images/3dmodel1.png" alt="Example" width="40%" />
+</div>
+
+### DIY
+
+[Link](./DIY)
+
+- **Designer**: Simon Eason (odddollar)
+- **Designer contact**: Create an issue/pull request in this or Hertz Hunter's [repo](https://github.com/odddollar/Hertz-hunter)
+- **Open source**: Yes
+
+<div align="center">
+    <img src="./DIY/Example.jpg" alt="Example" width="40%" />
 </div>
 
 ## Adding your own design
