@@ -1,6 +1,6 @@
 # Hertz Hunter Hardware
 
-Repository of different hardware designs for the [Hertz Hunter](https://github.com/odddollar/Hertz-hunter) RF spectrum analyser.
+Repository of different hardware designs for the [Hertz Hunter](https://github.com/odddollar/Hertz-Hunter) RF spectrum analyser.
 
 ## Designs
 
@@ -21,7 +21,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 [Link](./DIY)
 
 - **Designer**: Simon Eason (odddollar)
-- **Designer contact**: Create an issue/pull request in this or Hertz Hunter's [repo](https://github.com/odddollar/Hertz-hunter)
+- **Designer contact**: Create an issue/pull request in this or Hertz Hunter's [repo](https://github.com/odddollar/Hertz-Hunter)
 - **Open source**: Yes
 
 <div align="center">

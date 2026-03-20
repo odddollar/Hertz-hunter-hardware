@@ -1,6 +1,6 @@
 # DIY
 
-The original hardware design for [Hertz Hunter](https://github.com/odddollar/Hertz-hunter).
+The original hardware design for [Hertz Hunter](https://github.com/odddollar/Hertz-Hunter).
 
 <div align="center">
     <img src="./Example.jpg" alt="Example" width="40%" />
@@ -13,7 +13,7 @@ These components can be connected together on a bread-board or soldered more per
 - 1x [ESP32-C3 Super Mini](https://www.aliexpress.com/w/wholesale-esp32-c3-super-mini.html) (<$5)
 - 1x [RX5808 with SPI mod](https://www.aliexpress.com/w/wholesale-rx5808-spi.html) (\$25 to \$50 depending on the seller)
 - 1x [1.3" I<sup>2</sup>C 128x64 OLED](https://www.aliexpress.com/w/wholesale-1.3-oled.html) (<$5)
-  - I use an OLED with the SH1106 controller chip, but the SSD1306 chip (commonly used in 0.96" OLEDs) *should* work as well. The modifications that need to be made to the source code are explained in the [software documentation](https://github.com/odddollar/Hertz-hunter/blob/master/SOFTWARE.md#3-if-necessary-change-display-chip-being-used)
+  - I use an OLED with the SH1106 controller chip, but the SSD1306 chip (commonly used in 0.96" OLEDs) *should* work as well. The modifications that need to be made to the source code are explained in the [software documentation](https://github.com/odddollar/Hertz-Hunter/blob/master/SOFTWARE.md#3-if-necessary-change-display-chip-being-used)
 - 1x [Active 3.3V buzzer](https://www.aliexpress.com/w/wholesale-active-buzzer.html) (<$3)
 - 1x [TP4056 lithium battery charger module](https://zaitronics.com.au/products/tp4056-type-c-18650-lithium-battery-charger-protection) (<$2)
 - 1x [5V boost converter](https://zaitronics.com.au/products/mt3608-step-up-module) (<$3)

@@ -1,6 +1,6 @@
 # NuclearCounter
 
-Custom PCB for the [Hertz Hunter](https://github.com/odddollar/Hertz-hunter) firmware.
+Custom PCB for the [Hertz Hunter](https://github.com/odddollar/Hertz-Hunter) firmware.
 
 <div align="center">
     <img src="./Images/Example.jpg" alt="Example" width="40%" />
