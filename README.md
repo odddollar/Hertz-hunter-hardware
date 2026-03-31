@@ -16,6 +16,18 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
     <img src="./Compact 1.0/Images/3dmodel1.png" alt="Example" width="40%" />
 </div>
 
+### HertzHunter PCB
+
+[Link](./HertzHunter%20PCB%201.4/)
+
+- **Designer**: Kreviuz
+- **Designer contact**: Discord
+- **Open source**: Yes
+
+<div align="center">
+    <img src="./HertzHunter PCB 1.4/Images/3dmodel1.png" alt="Example" width="40%" />
+</div>
+
 ### DIY
 
 [Link](./DIY)
