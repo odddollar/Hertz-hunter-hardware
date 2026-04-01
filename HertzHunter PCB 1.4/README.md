@@ -18,7 +18,7 @@ The additional USB port is for charging only. The PCB will be powered via USB wh
 
 The display is any 1.3" I<sup>2</sup>C OLED from AliExpress, with the default pinout `GND VCC SCL SDA`. If your display's pinout is `VCC GND SCL SDA`, you can swap `VCC` and `GND` by changing the alignment of `R10` and `R11`.
 
-The design is inspired by NuclearQuads' NuclearCounter (just the design, don't know if schematic is similar or not)
+The layout is inspired by NuclearQuads' NuclearCounter.
 
 > [!IMPORTANT]
 >
