@@ -11,6 +11,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Designer**: Kreviuz
 - **Designer contact**: Discord
 - **Open source**: Yes
+- **Power source**: USB
 
 <div align="center">
     <img src="./Compact 1.0/Images/3dmodel1.png" alt="Example" width="40%" />
@@ -23,6 +24,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Designer**: Simon Eason (odddollar)
 - **Designer contact**: Create an issue/pull request in this or Hertz Hunter's [repo](https://github.com/odddollar/Hertz-Hunter)
 - **Open source**: Yes
+- **Power source**: Battery or USB
 
 <div align="center">
     <img src="./DIY/Example.jpg" alt="Example" width="40%" />
@@ -35,6 +37,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Designer**: Kreviuz
 - **Designer contact**: Discord
 - **Open source**: Yes
+- **Power source**: Battery or USB
 
 <div align="center">
     <img src="./Hertz Hunter PCB 1.4/Images/3dmodel1.png" alt="Example" width="40%" />
@@ -49,6 +52,7 @@ Repository of different hardware designs for the [Hertz Hunter](https://github.c
 - **Open source**: No
 - **Purchase/external link**: [NuclearQuads' NuclearCounter](https://nuclearq.myshopify.com/products/nuclearcounter)
 - **Price**: $50 USD
+- **Power source**: Battery or USB
 
 <div align="center">
     <img src="./NuclearCounter/Images/Example.jpg" alt="Example" width="40%" />
@@ -81,6 +85,7 @@ An example is provided above with the entry for the DIY design.
 - **Open source**: 
 - **Purchase/external link**: 
 - **Price**: 
+- **Power source**: 
 
 <div align="center">
     <img src="./Design's folder/Example.jpg" alt="Example" width="40%" />
